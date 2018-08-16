@@ -21,3 +21,5 @@ LED.unexport();
 
 setTimeout(endBlink, 5000);
 
+console.log('shes alive!!');
+
